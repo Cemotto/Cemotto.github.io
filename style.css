@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: white;
+
+}
+
+#navbar {
+  border: solid;
+  border-color: black;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  background-color: white;
+  
+  
+  
+  overflow: hidden;
+
+}
+
+#navbar a {
+  text-align:center;
+  color: black;
+  font-family: "Georgia";
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 90%;
+  margin: 5%;
+}
+
+#navbar a:hover {
+  color: darkgreen;
+}
